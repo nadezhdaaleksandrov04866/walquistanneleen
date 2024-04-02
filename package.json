@@ -1,0 +1,29 @@
+{
+  "name": "teapackage-walquistanneleen",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/nadezhdaaleksandrov04866/walquistanneleen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nadezhdaaleksandrov04866/walquistanneleen/issues"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "teapackage-dehmertula": "^1.0.5",
+    "teapackage-nadezhdaaleksandrov": "^1.0.6",
+    "teapackage-plus": "^1.0.7",
+    "teapackage-shortsleevedemetria": "^1.0.0",
+    "teapackage-tatespoorman297": "^1.0.0",
+    "teapackagetwo": "^1.0.3",
+    "teapackge-chinasoon": "^1.0.0",
+    "teapackge-ops": "^1.0.0"
+  }
+}
